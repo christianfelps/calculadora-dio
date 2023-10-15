@@ -1,5 +1,6 @@
-var rank = 0
-let saldoDeVitorias = calcular(335, 225)
+
+let saldoDeVitorias = calcular(5, 4
+    )
 console.log( "o heroi tem de saldo de " + saldoDeVitorias + " esta no nivel " +  rank)
     function  calcular(vitoria, derrota ){
         
